@@ -1,9 +1,0 @@
-torch
-torchvision
-numpy
-skimage
-SimpleITK
-tqdm
-matplotlib
-scipy
-collections
